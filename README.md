@@ -1,6 +1,6 @@
-![Gamesigniter](https://www.gamesigniter.com/gdevelop5/games-igniter-1280x640.jpg)
+![Gamesigniter](https://www.gamesigniter.com/wp-content/uploads/2020/05/gamesigniter-logo-red-280x94-1.png)
 # Games Igniter
-You can use the [Visit Us](https://www.gamesigniter.com/)
+[Visit Us](https://www.gamesigniter.com/)
 
 ```markdown
 
