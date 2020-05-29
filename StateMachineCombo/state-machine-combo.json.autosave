@@ -1373,7 +1373,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": true,
-        "zoomFactor": 0.82
+        "zoomFactor": 1.66
       },
       "objectsGroups": [
         {
@@ -1435,7 +1435,7 @@
           "locked": false,
           "name": "debug_anim_name",
           "width": 320,
-          "x": 340,
+          "x": 325,
           "y": 310,
           "zOrder": 3,
           "numberProperties": [],
@@ -1465,7 +1465,7 @@
           "locked": false,
           "name": "debug_player_atk",
           "width": 224,
-          "x": 340,
+          "x": 275,
           "y": 338,
           "zOrder": 6,
           "numberProperties": [],
@@ -1735,7 +1735,7 @@
           "locked": false,
           "name": "debug_wall_collided",
           "width": 0,
-          "x": 128,
+          "x": 207,
           "y": 308,
           "zOrder": 34,
           "numberProperties": [],
