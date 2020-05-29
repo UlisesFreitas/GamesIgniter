@@ -1,3 +1,4 @@
+![Gamesigniter](https://www.gamesigniter.com/gdevelop5/games-igniter-1280x640.jpg)
 # Games Igniter
 You can use the [editor on GitHub](https://github.com/UlisesFreitas/GDevelop5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
