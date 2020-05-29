@@ -1,33 +1,22 @@
 ![Gamesigniter](https://www.gamesigniter.com/gdevelop5/games-igniter-1280x640.jpg)
 # Games Igniter
-You can use the [editor on GitHub](https://github.com/UlisesFreitas/GDevelop5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [Visit Us](https://www.gamesigniter.com/)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1.idle,
+2.walk,
+3.jump,
+4.double jump,
+5.fall,
+6.attack_1, 
+7.attack_2, 
+8.attack_3,
+9.Wall jump,
+10.Wall slide
+ 
+[Asser for hero](https://rvros.itch.io/animated-pixel-hero)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UlisesFreitas/GDevelop5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
-
 ulises.freita@gmail.com
