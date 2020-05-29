@@ -17,6 +17,7 @@
  
 [Asser for hero](https://rvros.itch.io/animated-pixel-hero)
 ```
+[State machine combo](https://github.com/UlisesFreitas/GamesIgniter)
 
 ### Support or Contact
 ulises.freita@gmail.com
