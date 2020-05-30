@@ -467,24 +467,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-wall-slide-00-right.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-wall-slide-00-right.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-wall-slide-01-right.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-wall-slide-01-right.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/obj_scenarios/block_ext.png",
         "kind": "image",
         "metadata": "",
@@ -606,42 +588,6 @@
         "kind": "image",
         "metadata": "",
         "name": "assets\\obj_scenarios\\obj_camera_limit-1.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/obj_smoke-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\obj_smoke-1.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/obj_smoke-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\obj_smoke-2.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/obj_smoke-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\obj_smoke-3.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/obj_smoke-4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\obj_smoke-4.png",
         "smoothed": false,
         "userAdded": true
       },
@@ -926,33 +872,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-air-attack-3-end-00.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-air-attack-3-end-00.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-air-attack-3-end-01.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-air-attack-3-end-01.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-air-attack-3-end-02.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-air-attack-3-end-02.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/obj_player/adventurer-air-attack3-loop-00.png",
         "kind": "image",
         "metadata": "",
@@ -975,60 +894,6 @@
         "kind": "image",
         "metadata": "",
         "name": "assets\\obj_player\\adventurer-air-attack3-rdy-00.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-slide-00.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-slide-00.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-slide-01.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-slide-01.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/obj_player_dash_trail_smoke.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\obj_player_dash_trail_smoke.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-stand-00.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-stand-00.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-stand-01.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-stand-01.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/obj_player/adventurer-stand-02.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\obj_player\\adventurer-stand-02.png",
         "smoothed": false,
         "userAdded": true
       },
@@ -1347,6 +1212,27 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "Gamepads::C_Controller_X_is_connected"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "\"LEFT\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "SourisSurObjet"
                   },
                   "parameters": [
@@ -1541,6 +1427,10 @@
         {
           "name": "gs_jump_direction",
           "value": "0"
+        },
+        {
+          "name": "gs_max_speed",
+          "value": "100"
         }
       ],
       "instances": [
@@ -2083,6 +1973,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "layer": "HUD",
+          "locked": false,
+          "name": "TXT_debug_player_1",
+          "width": 224,
+          "x": 0,
+          "y": 64,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2099,11 +2004,12 @@
           ],
           "behaviors": [
             {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "ignoreDefaultControls": true,
               "maxSpeed": 100,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 0,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGrabPlatforms": false,
-              "ignoreDefaultControls": false,
               "maxFallingSpeed": 700,
               "jumpSpeed": 600,
               "xGrabTolerance": 10,
@@ -2111,7 +2017,6 @@
               "deceleration": 1500,
               "gravity": 1000,
               "roundCoordinates": true,
-              "slopeMaxAngle": 60,
               "yGrabOffset": 0
             }
           ],
@@ -4658,6 +4563,25 @@
         {
           "bold": false,
           "italic": false,
+          "name": "TXT_debug_player_1",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "TXT_debug_player_1",
+          "font": "",
+          "characterSize": 16,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
           "name": "debug_dash",
           "smoothed": true,
           "tags": "",
@@ -5077,6 +5001,27 @@
                 }
               ],
               "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Gamepads::C_Controller_X_is_connected"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "\"LEFT\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": []
             }
           ],
           "parameters": []
@@ -5202,7 +5147,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "SHOW|HIDE PLAYER PLATFORM",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5318,6 +5263,76 @@
                       },
                       "parameters": [
                         "obj_player_platform"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "r"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Return"
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"SplashScene\"",
+                        "yes"
                       ],
                       "subInstructions": []
                     }
@@ -5543,6 +5558,18 @@
                     "0"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "gs_max_speed",
+                    "=",
+                    "obj_player_platform.PlatformerObject::MaxSpeed()"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -5561,6 +5588,27 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Gamepads::C_Controller_X_is_connected"
+                  },
+                  "parameters": [
+                    "",
+                    "1",
+                    "\"LEFT\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": []
+            },
             {
               "disabled": false,
               "folded": false,
@@ -5750,7 +5798,7 @@
               "events": [
                 {
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -5799,6 +5847,20 @@
                               "parameters": [
                                 "",
                                 "1",
+                                "\"LEFT\"",
+                                ""
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "1",
+                                "\"LEFT\"",
                                 "\"LEFT\"",
                                 ""
                               ],
@@ -5857,6 +5919,20 @@
                                 ""
                               ],
                               "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "1",
+                                "\"LEFT\"",
+                                "\"RIGHT\"",
+                                ""
+                              ],
+                              "subInstructions": []
                             }
                           ]
                         }
@@ -5887,7 +5963,7 @@
               "colorR": 74,
               "creationTime": 0,
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "name": "WALLS",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -6144,7 +6220,7 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "name": "ANIMATION IDLE",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -6181,124 +6257,6 @@
                         }
                       ],
                       "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "AnyKeyPressed"
-                          },
-                          "parameters": [
-                            ""
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_player_attacking",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Arreter"
-                          },
-                          "parameters": [
-                            "obj_player_platform"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "SetAnimationName"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "\n\"idle\""
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "PlatformBehavior::IsMoving"
-                          },
-                          "parameters": [
-                            "obj_player_platform",
-                            "PlatformerObject"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "PlatformBehavior::IsOnFloor"
-                          },
-                          "parameters": [
-                            "obj_player_platform",
-                            "PlatformerObject"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_player_attacking",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Arreter"
-                          },
-                          "parameters": [
-                            "obj_player_platform"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "SetAnimationName"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "\n\"idle\""
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
                     }
                   ],
                   "parameters": []
@@ -6316,7 +6274,7 @@
                   "events": [
                     {
                       "disabled": false,
-                      "folded": false,
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -6404,12 +6362,11 @@
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "Gamepads::C_Axis_pushed"
+                                    "value": "Gamepads::C_Button_pressed"
                                   },
                                   "parameters": [
                                     "",
                                     "1",
-                                    "\"LEFT\"",
                                     "\"LEFT\"",
                                     ""
                                   ],
@@ -6418,11 +6375,12 @@
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "Gamepads::C_Button_pressed"
+                                    "value": "Gamepads::C_Axis_pushed"
                                   },
                                   "parameters": [
                                     "",
                                     "1",
+                                    "\"LEFT\"",
                                     "\"LEFT\"",
                                     ""
                                   ],
@@ -6472,12 +6430,11 @@
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "Gamepads::C_Axis_pushed"
+                                    "value": "Gamepads::C_Button_pressed"
                                   },
                                   "parameters": [
                                     "",
                                     "1",
-                                    "\"LEFT\"",
                                     "\"RIGHT\"",
                                     ""
                                   ],
@@ -6486,11 +6443,12 @@
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "Gamepads::C_Button_pressed"
+                                    "value": "Gamepads::C_Axis_pushed"
                                   },
                                   "parameters": [
                                     "",
                                     "1",
+                                    "\"LEFT\"",
                                     "\"RIGHT\"",
                                     ""
                                   ],
@@ -6532,7 +6490,7 @@
                   "events": [
                     {
                       "disabled": false,
-                      "folded": false,
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -6631,6 +6589,20 @@
                                     ""
                                   ],
                                   "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "1",
+                                    "\"LEFT\"",
+                                    "\"LEFT\"",
+                                    ""
+                                  ],
+                                  "subInstructions": []
                                 }
                               ]
                             }
@@ -6685,6 +6657,20 @@
                                     ""
                                   ],
                                   "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "1",
+                                    "\"LEFT\"",
+                                    "\"RIGHT\"",
+                                    ""
+                                  ],
+                                  "subInstructions": []
                                 }
                               ]
                             }
@@ -6715,14 +6701,14 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "name": "MOVE",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "disabled": false,
-                      "folded": true,
+                      "folded": false,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -6739,14 +6725,23 @@
                         {
                           "type": {
                             "inverted": false,
-                            "value": "VarScene"
+                            "value": "BuiltinCommonInstructions::And"
                           },
-                          "parameters": [
-                            "gs_player_attacking",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_player_attacking",
+                                "=",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
                         }
                       ],
                       "actions": [
@@ -6768,185 +6763,162 @@
                           "disabled": false,
                           "folded": false,
                           "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [],
-                          "events": [
+                          "conditions": [
                             {
-                              "disabled": false,
-                              "folded": false,
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::Or"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "BuiltinCommonInstructions::Or"
-                                  },
-                                  "parameters": [],
-                                  "subInstructions": [
-                                    {
-                                      "type": {
-                                        "inverted": false,
-                                        "value": "KeyPressed"
-                                      },
-                                      "parameters": [
-                                        "",
-                                        "Left"
-                                      ],
-                                      "subInstructions": []
-                                    },
-                                    {
-                                      "type": {
-                                        "inverted": false,
-                                        "value": "Gamepads::C_Button_pressed"
-                                      },
-                                      "parameters": [
-                                        "",
-                                        "1",
-                                        "\"LEFT\"",
-                                        ""
-                                      ],
-                                      "subInstructions": []
-                                    }
-                                  ]
-                                }
-                              ],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "PlatformBehavior::SimulateLeftKey"
+                                    "value": "KeyPressed"
                                   },
                                   "parameters": [
-                                    "obj_player_platform",
-                                    "PlatformerObject"
+                                    "",
+                                    "Left"
                                   ],
                                   "subInstructions": []
                                 },
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "ModVarScene"
+                                    "value": "Gamepads::C_Button_pressed"
                                   },
                                   "parameters": [
-                                    "gs_is_moving",
-                                    "=",
-                                    "1"
+                                    "",
+                                    "1",
+                                    "\"LEFT\"",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "1",
+                                    "\"LEFT\"",
+                                    "\"LEFT\"",
+                                    ""
                                   ],
                                   "subInstructions": []
                                 }
-                              ],
-                              "events": []
+                              ]
                             }
-                          ]
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "PlatformBehavior::SimulateLeftKey"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "PlatformerObject"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_is_moving",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
                         },
                         {
                           "disabled": false,
                           "folded": false,
                           "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [],
-                          "events": [
+                          "conditions": [
                             {
-                              "disabled": false,
-                              "folded": false,
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::Or"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "BuiltinCommonInstructions::Or"
-                                  },
-                                  "parameters": [],
-                                  "subInstructions": [
-                                    {
-                                      "type": {
-                                        "inverted": false,
-                                        "value": "KeyPressed"
-                                      },
-                                      "parameters": [
-                                        "",
-                                        "Right"
-                                      ],
-                                      "subInstructions": []
-                                    },
-                                    {
-                                      "type": {
-                                        "inverted": false,
-                                        "value": "Gamepads::C_Button_pressed"
-                                      },
-                                      "parameters": [
-                                        "",
-                                        "1",
-                                        "\"RIGHT\"",
-                                        ""
-                                      ],
-                                      "subInstructions": []
-                                    }
-                                  ]
-                                }
-                              ],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "PlatformBehavior::SimulateRightKey"
+                                    "value": "KeyPressed"
                                   },
                                   "parameters": [
-                                    "obj_player_platform",
-                                    "PlatformerObject"
+                                    "",
+                                    "Right"
                                   ],
                                   "subInstructions": []
                                 },
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "ModVarScene"
+                                    "value": "Gamepads::C_Button_pressed"
                                   },
                                   "parameters": [
-                                    "gs_is_moving",
-                                    "=",
-                                    "1"
+                                    "",
+                                    "1",
+                                    "\"RIGHT\"",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "1",
+                                    "\"LEFT\"",
+                                    "\"RIGHT\"",
+                                    ""
                                   ],
                                   "subInstructions": []
                                 }
-                              ],
-                              "events": []
+                              ]
                             }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "disabled": false,
-                      "folded": true,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_player_attacking",
-                            "=",
-                            "0"
                           ],
-                          "subInstructions": []
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "PlatformBehavior::SimulateRightKey"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "PlatformerObject"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_is_moving",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
                         },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "PlatformBehavior::IsOnFloor"
-                          },
-                          "parameters": [
-                            "obj_player_platform",
-                            "PlatformerObject"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
                         {
                           "disabled": false,
                           "folded": false,
@@ -6976,29 +6948,17 @@
                                 "0"
                               ],
                               "subInstructions": []
-                            }
-                          ],
-                          "events": []
-                        },
-                        {
-                          "disabled": false,
-                          "folded": false,
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
+                            },
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "VarScene"
+                                "value": "Arreter"
                               },
                               "parameters": [
-                                "gs_is_moving",
-                                "=",
-                                "1"
+                                "obj_player_platform"
                               ],
                               "subInstructions": []
-                            }
-                          ],
-                          "actions": [
+                            },
                             {
                               "type": {
                                 "inverted": false,
@@ -7006,7 +6966,7 @@
                               },
                               "parameters": [
                                 "obj_player",
-                                "\n\"walking\""
+                                "\n\"idle\""
                               ],
                               "subInstructions": []
                             }
@@ -7050,6 +7010,83 @@
                               "parameters": [
                                 "obj_player",
                                 "\n\"idle\""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "PlatformBehavior::IsMoving"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "PlatformerObject"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "SetAnimationName"
+                              },
+                              "parameters": [
+                                "obj_player",
+                                "\n\"walking\""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_is_moving",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_player_is_by_wall",
+                                "!=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "SetAnimationName"
+                              },
+                              "parameters": [
+                                "obj_player",
+                                "\n\"walking\""
                               ],
                               "subInstructions": []
                             }
@@ -8111,7 +8148,7 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": false,
+                  "folded": true,
                   "name": "WALL SLIDE",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -8433,7 +8470,7 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": false,
+                  "folded": true,
                   "name": "ON DASH",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -8550,7 +8587,7 @@
                               "parameters": [
                                 "obj_trail_smoke",
                                 "<=",
-                                "120"
+                                "75"
                               ],
                               "subInstructions": []
                             }
@@ -8958,19 +8995,41 @@
               "events": [
                 {
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "",
-                        "z"
-                      ],
-                      "subInstructions": []
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "z"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "1",
+                            "\"X\"",
+                            ""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
                     },
                     {
                       "type": {
@@ -9075,173 +9134,7 @@
                       "subInstructions": []
                     }
                   ],
-                  "events": [
-                    {
-                      "disabled": true,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_atk_count",
-                            "=",
-                            "1"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "\"attack_1\""
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Sprite"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "PlayAnimation"
-                          },
-                          "parameters": [
-                            "obj_player"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": true,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_atk_count",
-                            "=",
-                            "2"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "\"attack_2\""
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Sprite"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "PlayAnimation"
-                          },
-                          "parameters": [
-                            "obj_player"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": true,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_atk_count",
-                            "=",
-                            "3"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "\"attack_3\""
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Sprite"
-                          },
-                          "parameters": [
-                            "obj_player",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "PlayAnimation"
-                          },
-                          "parameters": [
-                            "obj_player"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    }
-                  ]
+                  "events": []
                 },
                 {
                   "disabled": false,
@@ -9533,17 +9426,6 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "z"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
                         "value": "VarScene"
                       },
                       "parameters": [
@@ -9575,6 +9457,39 @@
                         "PlatformerObject"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "z"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "1",
+                            "\"X\"",
+                            ""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
                     },
                     {
                       "type": {
@@ -10133,6 +10048,18 @@
                     "debug_moving",
                     "=",
                     "\"Moving:\" + VariableString(gs_is_moving) "
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "TXT_debug_player_1",
+                    "=",
+                    "\"Controller 1: \" + NewLine() +\n\"   Horizontal axis: \" + NewLine() +\n\"      Left: \" + ToString(Gamepads::AxisValue(1, \"LEFT\", \"LEFT\")) + NewLine() +\n\"      Right: \" + ToString(Gamepads::AxisValue(1, \"LEFT\", \"RIGHT\")) + NewLine() +\n\"      Max speed: \" + LargeNumberToString(obj_player_platform.PlatformerObject::MaxSpeed()) + NewLine()"
                   ],
                   "subInstructions": []
                 }
