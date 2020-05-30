@@ -896,6 +896,159 @@
         "name": "ios-icon-29.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack2-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack2-00.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack2-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack2-01.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack2-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack2-02.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack-3-end-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack-3-end-00.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack-3-end-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack-3-end-01.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack-3-end-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack-3-end-02.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack3-loop-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack3-loop-00.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack3-loop-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack3-loop-01.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-air-attack3-rdy-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-air-attack3-rdy-00.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-slide-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-slide-00.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-slide-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-slide-01.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/obj_player_dash_trail_smoke.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\obj_player_dash_trail_smoke.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-stand-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-stand-00.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-stand-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-stand-01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-stand-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-stand-02.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-crnr-jmp-00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-crnr-jmp-00.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/obj_player/adventurer-crnr-jmp-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\obj_player\\adventurer-crnr-jmp-01.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -927,7 +1080,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 32,
@@ -936,8 +1089,8 @@
         "gridR": 158,
         "gridWidth": 32,
         "snap": true,
-        "windowMask": false,
-        "zoomFactor": 0.85
+        "windowMask": true,
+        "zoomFactor": 0.7
       },
       "objectsGroups": [],
       "variables": [],
@@ -965,8 +1118,8 @@
           "locked": false,
           "name": "Start",
           "width": 111,
-          "x": 262,
-          "y": 323,
+          "x": 256,
+          "y": 320,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -981,7 +1134,7 @@
           "name": "Description2",
           "width": 612,
           "x": 12,
-          "y": 59,
+          "y": 78,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1006,42 +1159,12 @@
           "angle": 0,
           "customSize": true,
           "height": 32,
-          "layer": "HUD",
-          "locked": false,
-          "name": "Description",
-          "width": 608,
-          "x": 133.875,
-          "y": 197.138,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "HUD",
-          "locked": false,
-          "name": "Description",
-          "width": 608,
-          "x": 150.013,
-          "y": 281.067,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
           "layer": "",
           "locked": false,
           "name": "Description5",
-          "width": 358,
-          "x": 262,
-          "y": 210,
+          "width": 608,
+          "x": 10,
+          "y": 286,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1078,9 +1201,9 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "idle,\nwalk,\njump,\ndouble jump,\nfall,\nattack_1, \nattack_2, \nattack_3,\nWall jump,\nWall slide",
+          "string": "idle,\nwalk,\njump,\ndouble jump,\nfall,\nattack_1, air_attack_1\nattack_2, air_attack_2\nattack_3, air_attack_3\nWall jump,\nWall slide",
           "font": "assets\\obj_fonts\\PressStart2P-Regular.ttf",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 44,
             "g": 146,
@@ -1099,7 +1222,7 @@
           "behaviors": [],
           "string": "Arrows to move\n\nZ - Attack, pressed will trigger the combo\n\nX - Jump",
           "font": "assets\\obj_fonts\\PressStart2P-Regular.ttf",
-          "characterSize": 16,
+          "characterSize": 14,
           "color": {
             "b": 255,
             "g": 255,
@@ -1137,7 +1260,7 @@
           "behaviors": [],
           "string": "Asset hero - https://rvros.itch.io/animated-pixel-hero",
           "font": "assets\\obj_fonts\\PressStart2P-Regular.ttf",
-          "characterSize": 19,
+          "characterSize": 11,
           "color": {
             "b": 93,
             "g": 93,
@@ -1156,7 +1279,7 @@
           "behaviors": [],
           "string": "Simple State machine with combos",
           "font": "assets\\obj_fonts\\PressStart2P-Regular.ttf",
-          "characterSize": 19,
+          "characterSize": 14,
           "color": {
             "b": 93,
             "g": 93,
@@ -1373,7 +1496,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": true,
-        "zoomFactor": 1.66
+        "zoomFactor": 0.82
       },
       "objectsGroups": [
         {
@@ -1422,7 +1545,7 @@
           "width": 0,
           "x": 320,
           "y": 224,
-          "zOrder": 1,
+          "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1435,8 +1558,8 @@
           "locked": false,
           "name": "debug_anim_name",
           "width": 320,
-          "x": 325,
-          "y": 310,
+          "x": 0,
+          "y": 32,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1450,7 +1573,7 @@
           "locked": false,
           "name": "debug_atk_counter",
           "width": 224,
-          "x": 8,
+          "x": 2,
           "y": 335,
           "zOrder": 5,
           "numberProperties": [],
@@ -1465,8 +1588,8 @@
           "locked": false,
           "name": "debug_player_atk",
           "width": 224,
-          "x": 275,
-          "y": 338,
+          "x": 426,
+          "y": 335,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1534,14 +1657,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 32,
           "layer": "HUD",
           "locked": false,
           "name": "debug_wall_slide",
-          "width": 0,
-          "x": 10,
-          "y": 303,
+          "width": 160,
+          "x": 160,
+          "y": 0,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -1721,7 +1844,7 @@
           "name": "obj_floor_collidion",
           "width": 640,
           "x": 0,
-          "y": 320,
+          "y": 448,
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -1729,14 +1852,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 32,
           "layer": "HUD",
           "locked": false,
           "name": "debug_wall_collided",
-          "width": 0,
-          "x": 207,
-          "y": 308,
+          "width": 320,
+          "x": 320,
+          "y": 0,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -1798,21 +1921,6 @@
           "x": 640,
           "y": 512,
           "zOrder": 38,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "obj_smoke",
-          "width": 0,
-          "x": 192,
-          "y": 640,
-          "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1901,7 +2009,7 @@
           "name": "obj_floor_collidion",
           "width": 128,
           "x": 256,
-          "y": 288,
+          "y": 416,
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -1921,6 +2029,51 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "debug_air_atk_counter",
+          "width": 0,
+          "x": 216,
+          "y": 336,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "HUD",
+          "locked": false,
+          "name": "debug_moving",
+          "width": 192,
+          "x": 288,
+          "y": 32,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "debug_dash",
+          "width": 0,
+          "x": 480,
+          "y": 32,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1937,13 +2090,13 @@
           ],
           "behaviors": [
             {
+              "maxSpeed": 100,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGrabPlatforms": false,
               "ignoreDefaultControls": false,
               "maxFallingSpeed": 700,
               "jumpSpeed": 600,
-              "maxSpeed": 120,
               "xGrabTolerance": 10,
               "acceleration": 1500,
               "deceleration": 1500,
@@ -1965,7 +2118,13 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "assets\\obj_player\\obj_player_platform-1-6.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke_dash_jump",
+                          "x": 11,
+                          "y": 30
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1999,12 +2158,18 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.15,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-idle-2-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2040,7 +2205,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-idle-2-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2076,7 +2247,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-idle-2-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2112,7 +2289,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-idle-2-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2160,7 +2343,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-run-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2196,7 +2385,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-run-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2232,7 +2427,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-run-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2268,7 +2469,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-run-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2304,7 +2511,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-run-04.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2352,7 +2565,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-jump-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2388,7 +2607,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-jump-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2424,7 +2649,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-jump-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2460,7 +2691,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-jump-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2508,7 +2745,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-fall-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2544,7 +2787,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-fall-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2592,7 +2841,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2628,7 +2883,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2664,7 +2925,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2700,7 +2967,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2736,7 +3009,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2772,7 +3051,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2808,7 +3093,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack1-04.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2856,7 +3147,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2892,7 +3189,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2928,7 +3231,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -2964,7 +3273,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3000,7 +3315,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-04.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3036,7 +3357,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-05.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3072,7 +3399,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack2-05.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3120,7 +3453,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3156,7 +3495,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3192,7 +3537,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3228,7 +3579,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3264,7 +3621,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-04.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3300,7 +3663,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-05.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3336,7 +3705,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-attack3-05.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3384,7 +3759,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-wall-slide-00-left.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3420,7 +3801,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-wall-slide-01-left.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3468,7 +3855,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-crouch-left.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3506,17 +3899,23 @@
               ]
             },
             {
-              "name": "air_attack",
+              "name": "air_attack_1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-air-attack1-00.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3552,7 +3951,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-air-attack1-01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3588,7 +3993,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-air-attack1-02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3624,7 +4035,385 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets\\obj_player\\adventurer-air-attack1-03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "air_attack_2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-air-attack2-00.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-air-attack2-01.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-air-attack2-02.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "air_attack_3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-air-attack3-loop-00.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-air-attack3-loop-01.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-air-attack3-rdy-00.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dash",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-crnr-jmp-00.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 4
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 42
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 0
+                          },
+                          {
+                            "x": 30,
+                            "y": 37
+                          },
+                          {
+                            "x": 20,
+                            "y": 37
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\obj_player\\adventurer-crnr-jmp-01.png",
+                      "points": [
+                        {
+                          "name": "smoke",
+                          "x": 25,
+                          "y": 37
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 14,
@@ -3710,9 +4499,28 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Player Attacking:Bool:",
+          "string": "Attacking:",
           "font": "",
-          "characterSize": 20,
+          "characterSize": 16,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "debug_air_atk_counter",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "AIRATK CNT:",
+          "font": "",
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
@@ -3729,9 +4537,9 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Attack Count:Number:",
+          "string": "ATK CNT:",
           "font": "",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
@@ -3750,7 +4558,7 @@
           "behaviors": [],
           "string": "Animation name:",
           "font": "",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
@@ -3769,7 +4577,7 @@
           "behaviors": [],
           "string": "Wall slide:",
           "font": "",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
@@ -3788,7 +4596,26 @@
           "behaviors": [],
           "string": "Wall:",
           "font": "",
-          "characterSize": 20,
+          "characterSize": 16,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "debug_moving",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Moving:",
+          "font": "",
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
@@ -3807,7 +4634,26 @@
           "behaviors": [],
           "string": "Px:Py:",
           "font": "",
-          "characterSize": 18,
+          "characterSize": 16,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "debug_dash",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Dash:",
+          "font": "",
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
@@ -4011,6 +4857,45 @@
           ]
         },
         {
+          "name": "obj_trail_smoke",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\obj_player\\obj_player_dash_trail_smoke.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "obj_camera_limit",
           "tags": "",
           "type": "Sprite",
@@ -4048,101 +4933,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "obj_smoke",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "obj_smoke",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\obj_player\\obj_smoke-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\obj_player\\obj_smoke-2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\obj_player\\obj_smoke-3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\obj_player\\obj_smoke-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "events": [
@@ -4153,7 +4943,7 @@
           "creationTime": 0,
           "disabled": false,
           "folded": false,
-          "name": "Start",
+          "name": "START",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -4196,7 +4986,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"0;0;0\""
+                    "\"74;74;74\""
                   ],
                   "subInstructions": []
                 },
@@ -4283,8 +5073,8 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
-          "name": "Always",
+          "folded": false,
+          "name": "ALWAYS",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -4393,91 +5183,15 @@
           "parameters": []
         },
         {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
           "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "p"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
-              "subInstructions": []
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Visible"
-                  },
-                  "parameters": [
-                    "obj_player_platform"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Montre"
-                  },
-                  "parameters": [
-                    "obj_player_platform",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ]
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "o"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
-              "subInstructions": []
-            }
-          ],
-          "actions": [],
+          "folded": true,
+          "name": "SHOW|HIDE PLAYER PLATFORM",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
               "disabled": false,
@@ -4487,38 +5201,142 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Visible"
+                    "value": "KeyPressed"
                   },
                   "parameters": [
-                    "obj_player_platform"
+                    "",
+                    "p"
                   ],
                   "subInstructions": []
-                }
-              ],
-              "actions": [
+                },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Cache"
+                    "value": "BuiltinCommonInstructions::Once"
                   },
-                  "parameters": [
-                    "obj_player_platform"
-                  ],
+                  "parameters": [],
                   "subInstructions": []
                 }
               ],
-              "events": []
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Visible"
+                      },
+                      "parameters": [
+                        "obj_player_platform"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "obj_player_platform",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "o"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Visible"
+                      },
+                      "parameters": [
+                        "obj_player_platform"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "obj_player_platform"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
             }
-          ]
+          ],
+          "parameters": []
         },
         {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
           "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "PlayerEvents"
+          "folded": true,
+          "name": "PLAYER EVENTS",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "PlayerEvents"
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -4554,10 +5372,6 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior"
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
         }
       ]
     }
@@ -4626,7 +5440,19 @@
                     "value": "ModVarScene"
                   },
                   "parameters": [
-                    "gs_atk_,count",
+                    "gs_atk_count",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "gs_air_atk_count",
                     "=",
                     "0"
                   ],
@@ -4687,6 +5513,18 @@
                   },
                   "parameters": [
                     "gs_jump_direction",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "gs_dash",
                     "=",
                     "0"
                   ],
@@ -4783,7 +5621,7 @@
                   "parameters": [
                     "debug_wall_collided",
                     "=",
-                    "\"Wall:\""
+                    "\"Wall:Left:\" + ToString(Variable(gs_is_by_wall_left)) + \":Right:\" + LargeNumberToString(Variable(gs_is_by_wall_right))"
                   ],
                   "subInstructions": []
                 }
@@ -4804,6 +5642,52 @@
                     "gs_player_is_by_wall",
                     "=",
                     "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "gs_player_attacking",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::MaxFallingSpeed"
+                  },
+                  "parameters": [
+                    "obj_player_platform",
+                    "PlatformerObject",
+                    "=",
+                    "700"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "obj_player_platform",
+                    "PlatformerObject"
                   ],
                   "subInstructions": []
                 }
@@ -4896,20 +5780,6 @@
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "Gamepads::C_Axis_pushed"
-                              },
-                              "parameters": [
-                                "",
-                                "1",
-                                "\"LEFT\"",
-                                "\"LEFT\"",
-                                ""
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
                                 "value": "Gamepads::C_Button_pressed"
                               },
                               "parameters": [
@@ -4958,20 +5828,6 @@
                               "parameters": [
                                 "",
                                 "Right"
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "Gamepads::C_Axis_pushed"
-                              },
-                              "parameters": [
-                                "",
-                                "1",
-                                "\"LEFT\"",
-                                "\"RIGHT\"",
-                                ""
                               ],
                               "subInstructions": []
                             },
@@ -5446,7 +6302,7 @@
                   "events": [
                     {
                       "disabled": false,
-                      "folded": true,
+                      "folded": false,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -5752,20 +6608,6 @@
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "Gamepads::C_Axis_pushed"
-                                  },
-                                  "parameters": [
-                                    "",
-                                    "1",
-                                    "\"LEFT\"",
-                                    "\"LEFT\"",
-                                    ""
-                                  ],
-                                  "subInstructions": []
-                                },
-                                {
-                                  "type": {
-                                    "inverted": false,
                                     "value": "Gamepads::C_Button_pressed"
                                   },
                                   "parameters": [
@@ -5820,20 +6662,6 @@
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "Gamepads::C_Axis_pushed"
-                                  },
-                                  "parameters": [
-                                    "",
-                                    "1",
-                                    "\"LEFT\"",
-                                    "\"RIGHT\"",
-                                    ""
-                                  ],
-                                  "subInstructions": []
-                                },
-                                {
-                                  "type": {
-                                    "inverted": false,
                                     "value": "Gamepads::C_Button_pressed"
                                   },
                                   "parameters": [
@@ -5873,14 +6701,14 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "name": "MOVE",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "disabled": false,
-                      "folded": false,
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -5949,20 +6777,6 @@
                                       "parameters": [
                                         "",
                                         "Left"
-                                      ],
-                                      "subInstructions": []
-                                    },
-                                    {
-                                      "type": {
-                                        "inverted": false,
-                                        "value": "Gamepads::C_Axis_pushed"
-                                      },
-                                      "parameters": [
-                                        "",
-                                        "1",
-                                        "\"LEFT\"",
-                                        "\"LEFT\"",
-                                        ""
                                       ],
                                       "subInstructions": []
                                     },
@@ -6044,20 +6858,6 @@
                                     {
                                       "type": {
                                         "inverted": false,
-                                        "value": "Gamepads::C_Axis_pushed"
-                                      },
-                                      "parameters": [
-                                        "",
-                                        "1",
-                                        "\"LEFT\"",
-                                        "\"RIGHT\"",
-                                        ""
-                                      ],
-                                      "subInstructions": []
-                                    },
-                                    {
-                                      "type": {
-                                        "inverted": false,
                                         "value": "Gamepads::C_Button_pressed"
                                       },
                                       "parameters": [
@@ -6104,7 +6904,7 @@
                     },
                     {
                       "disabled": false,
-                      "folded": false,
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -6140,12 +6940,46 @@
                           "conditions": [
                             {
                               "type": {
-                                "inverted": false,
+                                "inverted": true,
                                 "value": "PlatformBehavior::IsMoving"
                               },
                               "parameters": [
                                 "obj_player_platform",
                                 "PlatformerObject"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_is_moving",
+                                "=",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_is_moving",
+                                "=",
+                                "1"
                               ],
                               "subInstructions": []
                             }
@@ -6172,12 +7006,13 @@
                           "conditions": [
                             {
                               "type": {
-                                "inverted": true,
-                                "value": "PlatformBehavior::IsMoving"
+                                "inverted": false,
+                                "value": "VarScene"
                               },
                               "parameters": [
-                                "obj_player_platform",
-                                "PlatformerObject"
+                                "gs_is_moving",
+                                "=",
+                                "0"
                               ],
                               "subInstructions": []
                             }
@@ -6218,7 +7053,7 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": false,
+                  "folded": true,
                   "name": "JUMP",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -6228,6 +7063,18 @@
                       "folded": false,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "gs_player_attacking",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        },
                         {
                           "type": {
                             "inverted": false,
@@ -6320,32 +7167,6 @@
                                     "gs_is_jumping",
                                     "=",
                                     "1"
-                                  ],
-                                  "subInstructions": []
-                                },
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "Create"
-                                  },
-                                  "parameters": [
-                                    "obj_smoke",
-                                    "obj_smoke",
-                                    "obj_player.X()",
-                                    "oxbj_player.Y()",
-                                    "\"\""
-                                  ],
-                                  "subInstructions": []
-                                },
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "ChangePlan"
-                                  },
-                                  "parameters": [
-                                    "obj_smoke",
-                                    "=",
-                                    "1000"
                                   ],
                                   "subInstructions": []
                                 }
@@ -6667,51 +7488,17 @@
                     }
                   ],
                   "parameters": []
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "disabled": false,
-              "folded": true,
-              "name": "WALL JUMP",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+                },
                 {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
                   "disabled": false,
                   "folded": true,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarScene"
-                      },
-                      "parameters": [
-                        "gs_wall_jump",
-                        "=",
-                        "1"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "PlatformBehavior::IsOnFloor"
-                      },
-                      "parameters": [
-                        "obj_player_platform",
-                        "PlatformerObject"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [],
+                  "name": "WALL JUMP",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "disabled": false,
@@ -6721,351 +7508,10 @@
                         {
                           "type": {
                             "inverted": false,
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_jumping",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_by_wall_left",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_moving",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            }
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_is_jumping",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_jump_count",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_jump_direction",
-                            "=",
-                            "1"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ResetTimer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"WallJump\""
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "BuiltinCommonInstructions::And"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_jumping",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_by_wall_right",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_moving",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            }
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_jump_count",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_is_jumping",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_jump_direction",
-                            "=",
-                            "-1"
-                          ],
-                          "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ResetTimer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"WallJump\""
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
                             "value": "VarScene"
                           },
                           "parameters": [
-                            "gs_jump_direction",
-                            "=",
-                            "1"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "AddForceXY"
-                          },
-                          "parameters": [
-                            "obj_player_platform",
-                            "180",
-                            "-200",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_jump_direction",
-                            "=",
-                            "-1"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "AddForceXY"
-                          },
-                          "parameters": [
-                            "obj_player_platform",
-                            "-180",
-                            "-200",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Timer"
-                          },
-                          "parameters": [
-                            "",
-                            "0.1",
-                            "\"WallJump\""
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "gs_jump_direction",
-                            "=",
-                            "0"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "BuiltinCommonInstructions::Or"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_by_wall_right",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_by_wall_left",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            }
-                          ]
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "VarScene"
-                          },
-                          "parameters": [
-                            "gs_is_moving",
+                            "gs_wall_jump",
                             "=",
                             "1"
                           ],
@@ -7083,13 +7529,72 @@
                           "subInstructions": []
                         }
                       ],
-                      "actions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarScene"
+                          },
+                          "parameters": [
+                            "gs_is_moving",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
                       "events": [
                         {
                           "disabled": false,
                           "folded": false,
                           "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::And"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_jumping",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_left",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_moving",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ]
+                            }
+                          ],
                           "actions": [
                             {
                               "type": {
@@ -7118,13 +7623,23 @@
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "PlatformBehavior::MaxFallingSpeed"
+                                "value": "ModVarScene"
                               },
                               "parameters": [
-                                "obj_player_platform",
-                                "PlatformerObject",
+                                "gs_jump_direction",
                                 "=",
-                                "200"
+                                "1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ResetTimer"
+                              },
+                              "parameters": [
+                                "",
+                                "\"WallJump\""
                               ],
                               "subInstructions": []
                             }
@@ -7139,85 +7654,57 @@
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "VarScene"
+                                "value": "BuiltinCommonInstructions::And"
                               },
-                              "parameters": [
-                                "gs_is_by_wall_right",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
+                              "parameters": [],
+                              "subInstructions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_jumping",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_right",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_moving",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ]
                             }
                           ],
                           "actions": [
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "FlipX"
+                                "value": "ModVarScene"
                               },
                               "parameters": [
-                                "obj_player_platform",
-                                "yes"
-                              ],
-                              "subInstructions": []
-                            }
-                          ],
-                          "events": []
-                        },
-                        {
-                          "disabled": false,
-                          "folded": false,
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_by_wall_left",
-                                "=",
-                                "1"
-                              ],
-                              "subInstructions": []
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "FlipX"
-                              },
-                              "parameters": [
-                                "obj_player_platform",
-                                "no"
-                              ],
-                              "subInstructions": []
-                            }
-                          ],
-                          "events": []
-                        }
-                      ]
-                    },
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "BuiltinCommonInstructions::Or"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "VarScene"
-                              },
-                              "parameters": [
-                                "gs_is_by_wall_left",
+                                "gs_jump_count",
                                 "=",
                                 "0"
                               ],
@@ -7226,70 +7713,394 @@
                             {
                               "type": {
                                 "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_is_jumping",
+                                "=",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_jump_direction",
+                                "=",
+                                "-1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ResetTimer"
+                              },
+                              "parameters": [
+                                "",
+                                "\"WallJump\""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
                                 "value": "VarScene"
                               },
                               "parameters": [
-                                "gs_is_by_wall_right",
+                                "gs_jump_direction",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "AddForceXY"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "180",
+                                "-200",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_jump_direction",
+                                "=",
+                                "-1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "AddForceXY"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "-180",
+                                "-200",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Timer"
+                              },
+                              "parameters": [
+                                "",
+                                "0.1",
+                                "\"WallJump\""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_jump_direction",
                                 "=",
                                 "0"
                               ],
                               "subInstructions": []
                             }
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "PlatformBehavior::MaxFallingSpeed"
-                          },
-                          "parameters": [
-                            "obj_player_platform",
-                            "PlatformerObject",
-                            "=",
-                            "700"
                           ],
-                          "subInstructions": []
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::Or"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_right",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_left",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_is_moving",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::IsOnFloor"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "PlatformerObject"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_jumping",
+                                    "=",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_jump_count",
+                                    "=",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "PlatformBehavior::MaxFallingSpeed"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "PlatformerObject",
+                                    "=",
+                                    "200"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_right",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "FlipX"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "yes"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_left",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "FlipX"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "no"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            }
+                          ]
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::Or"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_left",
+                                    "=",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_is_by_wall_right",
+                                    "=",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "PlatformBehavior::MaxFallingSpeed"
+                              },
+                              "parameters": [
+                                "obj_player_platform",
+                                "PlatformerObject",
+                                "=",
+                                "700"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
                         }
-                      ],
-                      "events": []
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "disabled": false,
-              "folded": false,
-              "name": "WALL SLIDE",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarScene"
-                      },
-                      "parameters": [
-                        "gs_player_attacking",
-                        "=",
-                        "0"
-                      ],
-                      "subInstructions": []
+                      ]
                     }
                   ],
-                  "actions": [],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "disabled": false,
+                  "folded": true,
+                  "name": "WALL SLIDE",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "disabled": false,
@@ -7299,11 +8110,12 @@
                         {
                           "type": {
                             "inverted": false,
-                            "value": "PlatformBehavior::IsFalling"
+                            "value": "VarScene"
                           },
                           "parameters": [
-                            "obj_player_platform",
-                            "PlatformerObject"
+                            "gs_player_attacking",
+                            "=",
+                            "0"
                           ],
                           "subInstructions": []
                         }
@@ -7318,89 +8130,319 @@
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "CollisionNP"
-                              },
-                              "parameters": [
-                                "obj_player_platform",
-                                "LeftWallsGroup",
-                                "",
-                                "",
-                                ""
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": true,
-                                "value": "PlatformBehavior::IsOnFloor"
+                                "value": "PlatformBehavior::IsFalling"
                               },
                               "parameters": [
                                 "obj_player_platform",
                                 "PlatformerObject"
                               ],
                               "subInstructions": []
-                            },
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
                             {
-                              "type": {
-                                "inverted": false,
-                                "value": "BuiltinCommonInstructions::Or"
-                              },
-                              "parameters": [],
-                              "subInstructions": [
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
                                 {
                                   "type": {
                                     "inverted": false,
-                                    "value": "KeyPressed"
+                                    "value": "CollisionNP"
                                   },
                                   "parameters": [
+                                    "obj_player_platform",
+                                    "LeftWallsGroup",
                                     "",
-                                    "Left"
-                                  ],
-                                  "subInstructions": []
-                                },
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "Gamepads::C_Axis_pushed"
-                                  },
-                                  "parameters": [
                                     "",
-                                    "1",
-                                    "\"LEFT\"",
-                                    "\"LEFT\"",
                                     ""
                                   ],
                                   "subInstructions": []
                                 },
                                 {
                                   "type": {
-                                    "inverted": false,
-                                    "value": "Gamepads::C_Button_pressed"
+                                    "inverted": true,
+                                    "value": "PlatformBehavior::IsOnFloor"
                                   },
                                   "parameters": [
-                                    "",
-                                    "1",
-                                    "\"LEFT\"",
-                                    ""
+                                    "obj_player_platform",
+                                    "PlatformerObject"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Or"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": [
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "KeyPressed"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "Left"
+                                      ],
+                                      "subInstructions": []
+                                    },
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "Gamepads::C_Axis_pushed"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "1",
+                                        "\"LEFT\"",
+                                        "\"LEFT\"",
+                                        ""
+                                      ],
+                                      "subInstructions": []
+                                    },
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "Gamepads::C_Button_pressed"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "1",
+                                        "\"LEFT\"",
+                                        ""
+                                      ],
+                                      "subInstructions": []
+                                    }
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_player_is_by_wall",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetAnimationName"
+                                  },
+                                  "parameters": [
+                                    "obj_player",
+                                    "\"wall_slide\""
                                   ],
                                   "subInstructions": []
                                 }
-                              ]
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "CollisionNP"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "RightWallsGroup",
+                                    "",
+                                    "",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "PlatformBehavior::IsOnFloor"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "PlatformerObject"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Or"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": [
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "KeyPressed"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "Right"
+                                      ],
+                                      "subInstructions": []
+                                    },
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "Gamepads::C_Axis_pushed"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "1",
+                                        "\"LEFT\"",
+                                        "\"RIGHT\"",
+                                        ""
+                                      ],
+                                      "subInstructions": []
+                                    },
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "Gamepads::C_Button_pressed"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "1",
+                                        "\"RIGHT\"",
+                                        ""
+                                      ],
+                                      "subInstructions": []
+                                    }
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_player_is_by_wall",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetAnimationName"
+                                  },
+                                  "parameters": [
+                                    "obj_player",
+                                    "\"wall_slide\""
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
                             }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "gs_player_is_by_wall",
+                            "=",
+                            "1"
                           ],
-                          "actions": [
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "PlatformBehavior::MaxFallingSpeed"
+                          },
+                          "parameters": [
+                            "obj_player_platform",
+                            "PlatformerObject",
+                            "=",
+                            "200"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "disabled": false,
+                  "folded": false,
+                  "name": "ON DASH",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "gs_player_attacking",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "ModVarScene"
+                                "value": "VarScene"
                               },
                               "parameters": [
-                                "gs_player_is_by_wall",
+                                "gs_dash",
                                 "=",
                                 "1"
                               ],
                               "subInstructions": []
-                            },
+                            }
+                          ],
+                          "actions": [
                             {
                               "type": {
                                 "inverted": false,
@@ -7408,7 +8450,7 @@
                               },
                               "parameters": [
                                 "obj_player",
-                                "\"wall_slide\""
+                                "\n\"dash\""
                               ],
                               "subInstructions": []
                             }
@@ -7423,28 +8465,326 @@
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "CollisionNP"
+                                "value": "Opacity"
                               },
                               "parameters": [
-                                "obj_player_platform",
-                                "RightWallsGroup",
-                                "",
-                                "",
-                                ""
+                                "obj_trail_smoke",
+                                ">",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Opacity"
+                              },
+                              "parameters": [
+                                "obj_trail_smoke",
+                                "-",
+                                "2"
                               ],
                               "subInstructions": []
                             },
                             {
                               "type": {
-                                "inverted": true,
-                                "value": "PlatformBehavior::IsOnFloor"
+                                "inverted": false,
+                                "value": "ChangeScale"
                               },
                               "parameters": [
-                                "obj_player_platform",
-                                "PlatformerObject"
+                                "obj_trail_smoke",
+                                "+",
+                                "0.015"
                               ],
                               "subInstructions": []
                             },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "RotateTowardAngle"
+                              },
+                              "parameters": [
+                                "obj_trail_smoke",
+                                "360",
+                                "0",
+                                ""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Opacity"
+                              },
+                              "parameters": [
+                                "obj_trail_smoke",
+                                "<=",
+                                "250"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "obj_player_trail",
+                                ""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "Timer"
+                              },
+                              "parameters": [
+                                "",
+                                ".25",
+                                "\"Dash\""
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_dash",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "FlippedX"
+                                  },
+                                  "parameters": [
+                                    "obj_player"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "AddForceXY"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "-320",
+                                    "0",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "PlatformBehavior::MaxFallingSpeed"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "PlatformerObject",
+                                    "=",
+                                    "100"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "FlippedX"
+                                  },
+                                  "parameters": [
+                                    "obj_player"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "AddForceXY"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "320",
+                                    "0",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "PlatformBehavior::MaxFallingSpeed"
+                                  },
+                                  "parameters": [
+                                    "obj_player_platform",
+                                    "PlatformerObject",
+                                    "=",
+                                    "100"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            }
+                          ]
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "Timer"
+                              },
+                              "parameters": [
+                                "",
+                                ".2",
+                                "\"Dash\""
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarScene"
+                              },
+                              "parameters": [
+                                "gs_dash",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "obj_trail_smoke",
+                                "obj_player_platform.PointX(\"smoke_dash_jump\")",
+                                "obj_player_platform.PointY(\"smoke_dash_jump\")",
+                                "\"\""
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "obj_trail_smoke",
+                                "=",
+                                "obj_player.ZOrder()+1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Timer"
+                              },
+                              "parameters": [
+                                "",
+                                "0.5",
+                                "\"Dash\""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "RemoveTimer"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Dash\""
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarScene"
+                              },
+                              "parameters": [
+                                "gs_dash",
+                                "=",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": true,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
                             {
                               "type": {
                                 "inverted": false,
@@ -7459,21 +8799,7 @@
                                   },
                                   "parameters": [
                                     "",
-                                    "Right"
-                                  ],
-                                  "subInstructions": []
-                                },
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "Gamepads::C_Axis_pushed"
-                                  },
-                                  "parameters": [
-                                    "",
-                                    "1",
-                                    "\"LEFT\"",
-                                    "\"RIGHT\"",
-                                    ""
+                                    "c"
                                   ],
                                   "subInstructions": []
                                 },
@@ -7485,79 +8811,115 @@
                                   "parameters": [
                                     "",
                                     "1",
-                                    "\"RIGHT\"",
+                                    "\"B\"",
                                     ""
                                   ],
                                   "subInstructions": []
                                 }
                               ]
-                            }
-                          ],
-                          "actions": [
+                            },
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "ModVarScene"
+                                "value": "VarScene"
                               },
                               "parameters": [
-                                "gs_player_is_by_wall",
+                                "gs_dash",
                                 "=",
-                                "1"
+                                "0"
                               ],
                               "subInstructions": []
                             },
                             {
                               "type": {
                                 "inverted": false,
-                                "value": "SetAnimationName"
+                                "value": "BuiltinCommonInstructions::Once"
                               },
-                              "parameters": [
-                                "obj_player",
-                                "\"wall_slide\""
-                              ],
+                              "parameters": [],
                               "subInstructions": []
                             }
                           ],
-                          "events": []
+                          "actions": [],
+                          "events": [
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::And"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": [
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "BuiltinCommonInstructions::Or"
+                                      },
+                                      "parameters": [],
+                                      "subInstructions": [
+                                        {
+                                          "type": {
+                                            "inverted": false,
+                                            "value": "PlatformBehavior::IsOnFloor"
+                                          },
+                                          "parameters": [
+                                            "obj_player_platform",
+                                            "PlatformerObject"
+                                          ],
+                                          "subInstructions": []
+                                        },
+                                        {
+                                          "type": {
+                                            "inverted": false,
+                                            "value": "PlatformBehavior::IsJumping"
+                                          },
+                                          "parameters": [
+                                            "obj_player_platform",
+                                            "PlatformerObject"
+                                          ],
+                                          "subInstructions": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarScene"
+                                  },
+                                  "parameters": [
+                                    "gs_dash",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ResetTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"Dash\""
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            }
+                          ]
                         }
                       ]
                     }
-                  ]
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarScene"
-                      },
-                      "parameters": [
-                        "gs_player_is_by_wall",
-                        "=",
-                        "1"
-                      ],
-                      "subInstructions": []
-                    }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PlatformBehavior::MaxFallingSpeed"
-                      },
-                      "parameters": [
-                        "obj_player_platform",
-                        "PlatformerObject",
-                        "=",
-                        "200"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
+                  "parameters": []
                 }
               ],
               "parameters": []
@@ -7569,13 +8931,13 @@
               "creationTime": 0,
               "disabled": false,
               "folded": true,
-              "name": "COMBO",
+              "name": "COMBO  LAND ATTACK",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
                   "disabled": false,
-                  "folded": false,
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -7595,7 +8957,7 @@
                         "value": "VarScene"
                       },
                       "parameters": [
-                        "gs_atck_count",
+                        "gs_atk_count",
                         "<=",
                         "3"
                       ],
@@ -7694,7 +9056,7 @@
                   ],
                   "events": [
                     {
-                      "disabled": false,
+                      "disabled": true,
                       "folded": false,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
@@ -7704,7 +9066,7 @@
                             "value": "VarScene"
                           },
                           "parameters": [
-                            "gs_atck_count",
+                            "gs_atk_count",
                             "=",
                             "1"
                           ],
@@ -7749,7 +9111,7 @@
                       "events": []
                     },
                     {
-                      "disabled": false,
+                      "disabled": true,
                       "folded": false,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
@@ -7759,7 +9121,7 @@
                             "value": "VarScene"
                           },
                           "parameters": [
-                            "gs_atck_count",
+                            "gs_atk_count",
                             "=",
                             "2"
                           ],
@@ -7804,7 +9166,7 @@
                       "events": []
                     },
                     {
-                      "disabled": false,
+                      "disabled": true,
                       "folded": false,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
@@ -7814,7 +9176,7 @@
                             "value": "VarScene"
                           },
                           "parameters": [
-                            "gs_atck_count",
+                            "gs_atk_count",
                             "=",
                             "3"
                           ],
@@ -8130,6 +9492,512 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "disabled": false,
+              "folded": true,
+              "name": "COMBO AIR ATTACK",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "z"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "gs_air_atk_count",
+                        "<",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "gs_player_attacking",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "obj_player_platform",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_player_attacking",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_air_atk_count",
+                        "+",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_jump_count",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "obj_player",
+                        "\"air_attack_\" + VariableString(gs_air_atk_count)"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationName"
+                          },
+                          "parameters": [
+                            "obj_player",
+                            "\"air_attack_1\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationName"
+                          },
+                          "parameters": [
+                            "obj_player",
+                            "\"air_attack_2\""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::MaxFallingSpeed"
+                      },
+                      "parameters": [
+                        "obj_player_platform",
+                        "PlatformerObject",
+                        "=",
+                        "100"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationName"
+                          },
+                          "parameters": [
+                            "obj_player",
+                            "\"air_attack_1\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationEnded"
+                          },
+                          "parameters": [
+                            "obj_player"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_player_attacking",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationName"
+                          },
+                          "parameters": [
+                            "obj_player",
+                            "\"air_attack_2\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationEnded"
+                          },
+                          "parameters": [
+                            "obj_player"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_player_attacking",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationName"
+                          },
+                          "parameters": [
+                            "obj_player",
+                            "\"air_attack_3\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationEnded"
+                          },
+                          "parameters": [
+                            "obj_player"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_player_attacking",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "gs_air_atk_count",
+                        ">=",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "gs_player_attacking",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::MaxFallingSpeed"
+                      },
+                      "parameters": [
+                        "obj_player_platform",
+                        "PlatformerObject",
+                        "=",
+                        "700"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_air_atk_count",
+                        "=",
+                        "3"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "obj_player_platform",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "gs_air_atk_count",
+                            ">=",
+                            "3"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarScene"
+                          },
+                          "parameters": [
+                            "gs_player_attacking",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarScene"
+                          },
+                          "parameters": [
+                            "gs_air_atk_count",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarScene"
+                          },
+                          "parameters": [
+                            "gs_player_attacking",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "obj_player_platform",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "gs_air_atk_count",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": []
             }
           ],
           "parameters": []
@@ -8141,7 +10009,7 @@
           "creationTime": 0,
           "disabled": false,
           "folded": false,
-          "name": "Debug",
+          "name": "DEBUG",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -8159,7 +10027,19 @@
                   "parameters": [
                     "debug_atk_counter",
                     "=",
-                    "\"Attack Count: \" + VariableString(gs_atk_count)"
+                    "\"ATK CNT:\" + VariableString(gs_atk_count)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "debug_air_atk_counter",
+                    "=",
+                    "\"AIR CNT:\" + VariableString(gs_air_atk_count)"
                   ],
                   "subInstructions": []
                 },
@@ -8171,7 +10051,7 @@
                   "parameters": [
                     "debug_anim_name",
                     "=",
-                    "\"Animation: \" + obj_player.AnimationName()"
+                    "\"ANIM:\" + obj_player.AnimationName()"
                   ],
                   "subInstructions": []
                 },
@@ -8183,7 +10063,19 @@
                   "parameters": [
                     "debug_player_atk",
                     "=",
-                    "\"Attacking: \" + VariableString(gs_player_attacking)"
+                    "\"ATTACKING:\" + VariableString(gs_player_attacking)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "debug_dash",
+                    "=",
+                    "\"DASH:\" + VariableString(gs_dash)"
                   ],
                   "subInstructions": []
                 },
@@ -8195,7 +10087,7 @@
                   "parameters": [
                     "debug_wall_slide",
                     "=",
-                    "\"Slide: \" + VariableString(gs_player_is_by_wall)"
+                    "\"SLIDE:\" + VariableString(gs_player_is_by_wall)"
                   ],
                   "subInstructions": []
                 },
@@ -8208,6 +10100,18 @@
                     "debug_px_py",
                     "=",
                     "\"Px:\" + ToString(round(obj_player_platform.X())) + \"Py:\" +ToString(round(obj_player_platform.Y()))"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "debug_moving",
+                    "=",
+                    "\"Moving:\" + VariableString(gs_is_moving) "
                   ],
                   "subInstructions": []
                 }
