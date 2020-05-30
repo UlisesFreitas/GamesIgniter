@@ -14,6 +14,7 @@
 8.attack_3, air_attack_3
 9.Wall jump,
 10.Wall slide
+11.Dash
  
 [Asser for hero](https://rvros.itch.io/animated-pixel-hero)
 ```
