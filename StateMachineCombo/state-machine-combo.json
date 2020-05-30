@@ -1981,10 +1981,25 @@
           "layer": "HUD",
           "locked": false,
           "name": "TXT_debug_player_1",
-          "width": 224,
+          "width": 192,
           "x": 0,
           "y": 64,
           "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "HUD",
+          "locked": false,
+          "name": "debug_pause",
+          "width": 224,
+          "x": 416,
+          "y": 64,
+          "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4582,6 +4597,25 @@
         {
           "bold": false,
           "italic": false,
+          "name": "debug_pause",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "r: Restart Scene\np: Show obj_player_platform\no: Hide obj_player_platform",
+          "font": "",
+          "characterSize": 16,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
           "name": "debug_dash",
           "smoothed": true,
           "tags": "",
@@ -5291,17 +5325,6 @@
                       "parameters": [
                         "",
                         "r"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Return"
                       ],
                       "subInstructions": []
                     }
