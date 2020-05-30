@@ -9,9 +9,9 @@
 3.jump,
 4.double jump,
 5.fall,
-6.attack_1, 
-7.attack_2, 
-8.attack_3,
+6.attack_1, air_attack_1
+7.attack_2, air_attack_2
+8.attack_3, air_attack_3
 9.Wall jump,
 10.Wall slide
  
