@@ -18,7 +18,7 @@
     "scaleMode": "nearest",
     "sizeOnStartupMode": "",
     "useExternalSourceFiles": false,
-    "version": "1.0.0",
+    "version": "0.0.3",
     "winExecutableFilename": "",
     "winExecutableIconFile": "",
     "name": "State Machine Combo",
@@ -1391,7 +1391,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": true,
-        "zoomFactor": 0.82
+        "zoomFactor": 0.7
       },
       "objectsGroups": [
         {
@@ -1738,21 +1738,6 @@
           "angle": 0,
           "customSize": true,
           "height": 32,
-          "layer": "",
-          "locked": false,
-          "name": "obj_floor_collidion",
-          "width": 640,
-          "x": 0,
-          "y": 448,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
           "layer": "HUD",
           "locked": false,
           "name": "debug_wall_collided",
@@ -1903,21 +1888,6 @@
           "angle": 0,
           "customSize": true,
           "height": 32,
-          "layer": "",
-          "locked": false,
-          "name": "obj_floor_collidion",
-          "width": 128,
-          "x": 256,
-          "y": 416,
-          "zOrder": 45,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
           "layer": "HUD",
           "locked": false,
           "name": "debug_px_py",
@@ -2019,11 +1989,11 @@
           ],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "ignoreDefaultControls": true,
               "maxSpeed": 100,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 0,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGrabPlatforms": false,
               "maxFallingSpeed": 700,
               "jumpSpeed": 600,
@@ -4387,24 +4357,6 @@
           ]
         },
         {
-          "height": 32,
-          "name": "obj_floor_collidion",
-          "tags": "",
-          "texture": "assets\\obj_scenarios\\obj_floor_collision-1.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
           "bold": false,
           "italic": false,
           "name": "Description",
@@ -4604,7 +4556,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Beta: 0.0.2\nr: Restart Scene\np: Show obj_player_platform\no: Hide obj_player_platform\nh: Hide HUD\ng: Show HUD",
+          "string": "Beta: 0.0.3\nr: Restart Scene\np: Show obj_player_platform\no: Hide obj_player_platform\nh: Hide HUD\ng: Show HUD",
           "font": "",
           "characterSize": 16,
           "color": {
@@ -5022,16 +4974,6 @@
                     "obj_player_platform"
                   ],
                   "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "obj_floor_collidion"
-                  ],
-                  "subInstructions": []
                 }
               ],
               "events": []
@@ -5066,7 +5008,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "ALWAYS",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5580,7 +5522,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Start",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5746,7 +5688,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Always",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5943,7 +5885,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Player",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -6126,7 +6068,7 @@
               "colorR": 74,
               "creationTime": 0,
               "disabled": false,
-              "folded": false,
+              "folded": true,
               "name": "WALLS",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -6372,7 +6314,7 @@
               "colorR": 74,
               "creationTime": 0,
               "disabled": false,
-              "folded": false,
+              "folded": true,
               "name": "MOVE",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7267,7 +7209,7 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "name": "JUMP",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -7433,7 +7375,7 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "disabled": false,
-                  "folded": true,
+                  "folded": false,
                   "name": "DOUBLE JUMP",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -7500,7 +7442,7 @@
                                 "value": "VarScene"
                               },
                               "parameters": [
-                                "gs_jump_cunt",
+                                "gs_jump_count",
                                 "<",
                                 "1"
                               ],
@@ -10107,7 +10049,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "DEBUG",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
